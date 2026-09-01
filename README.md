@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**tskhirtladze/tskhirtladze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst & Python Developer** who enjoys building things with data and code - from **data engineering pipelines and interactive dashboards to web applications, research software, and AI chatbots with RAG**.
 
-Here are some ideas to get you started:
+I'm particularly interested in **Open Science, Research Software, AI, Agent-Based Modelling, and Research Infrastructure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on: Linked Open Data Chat Assistant [click here to check it out](https://github.com/tskhirtladze/sztaki-lod-chatbot)
+
+---
+
+## What I Do
+
+- 🔹 Build **data engineering pipelines** for collecting, processing, validating, and transforming data
+- 🔹 Perform **data analysis** to discover patterns and generate actionable insights
+- 🔹 Create interactive **data visualizations and dashboards**
+- 🔹 Develop **web applications and APIs** using Python-based frameworks
+- 🔹 Build **research software** for academic and scientific use
+- 🔹 Develop **AI chatbots with RAG** and knowledge graph integration
+- 🔹 Automate repetitive **research and administrative workflows**
+
+---
+
+## Selected Projects
+
+- 🔹 [QueryLab](https://querylab.ge/): An interactive web platform for learning MySQL through tutorials, quizzes, SQL exercises, and a live database sandbox.
+
+- 🔹 [Institution Research Dashboard](https://institution-research-dashboard-ts.streamlit.app/): An interactive dashboard for exploring research output, citations, topics, collaborations, and growth of academic institutions worldwide using the **OpenAlex API**.
+
+- 🔹 [Co-authorship Network](https://github.com/tskhirtladze/agruni-network): A data pipeline and network analysis project for collecting, processing, and visualizing academic collaboration data.
+
+- 🔹 [Agent-Based Voter Behavior Simulation](https://github.com/tskhirtladze/ABM-Voter-Behavior-and-Opinion-Spread): An agent-based model to simulate voter interactions and visualize voting preference shifts, providing insights into voting behavior trends.
+
+- 🔹 [Research Grant Application Portal](https://github.com/tskhirtladze/django-grants-portal): A Django-based portal for managing research grants, allowing users to register, manage profiles, and submit proposals. 
+
+---
+
+## 🤝 Let's Connect
+
+📍 **Leiden, Netherlands**
+
+📧 **skhirtladze.tornike@gmail.com**
+
+💼 [LinkedIn](https://www.linkedin.com/in/tornike-skhirtladze-463120b6/)
